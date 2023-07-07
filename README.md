@@ -2,6 +2,9 @@
 
 This repository contains code for a Text to Image Generator using OpenAI's Dall-E and Gradio.
 
+![image](https://github.com/arham-kk/text-to-image/assets/108623726/964af1f8-b791-4fde-870e-ed0c4eed525b)
+
+
 ## Installation
 
 1. Clone the repository:
